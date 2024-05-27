@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.full-height-container {
+  height: 100%; /* 100% of the parent div */
+  display: flex;
+  flex-direction: column; /* This is optional, depending on your layout needs */
+}

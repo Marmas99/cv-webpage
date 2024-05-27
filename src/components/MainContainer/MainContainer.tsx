@@ -1,9 +1,10 @@
 import React from 'react'
+import './MainContainer.css'
 
-export default function Mainpage() {
+export default function MainContainer() {
   return (
-    <div>
-        Mainpage
+    <div className='container-fluid full-height-container bg-primary'>
+        
     </div>
   )
 }

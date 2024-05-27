@@ -1,0 +1,5 @@
+.app-container {
+    height: 100vh; /* 100% of the viewport height aka the browser window */
+    width: 100vw; /* 100% of the viewport width aka the browser window */
+    border: 2px solid black; /* Just to visualize the parent div */
+  }
