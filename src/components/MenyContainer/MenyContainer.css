@@ -1,0 +1,5 @@
+.meny-container-size {
+    height: 20%; /* 20% of the parent's height */
+    width: 90%; /* 90% of the parent's width */
+    margin-top: 2%
+  }
