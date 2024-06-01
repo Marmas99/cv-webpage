@@ -1,0 +1,6 @@
+.content-contianer-size {
+    height: 80%; /* 80% of the parent's height */
+    width: 90%; /* 90% of the parent's width */
+    margin-top: 2%;
+    margin-bottom: 2%
+}
